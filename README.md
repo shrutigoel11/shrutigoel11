@@ -18,4 +18,5 @@
 
 ### Contribution Stats:
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shrutigoel11&" height="150%" alt="shrutigoel11" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&exclude_days=Sun&background=45%2CEBD2D2C3%2CEB5454)](https://git.io/streak-stats">
 
