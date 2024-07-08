@@ -16,5 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutigoel11&show_icons=true&locale=en&layout=compact" alt="shrutigoel11" /></p>
 
-### Contribution Stats:
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shrutigoel11&" height="150%" alt="shrutigoel11" /></p>
