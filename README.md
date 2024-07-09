@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Goel <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="html5" width="85" height="65"/></h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h3 align="center">A Passionate Full Stack Developer </h3>
 
 - 🌱 I’m currently learning *React.js*
 
