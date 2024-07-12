@@ -17,5 +17,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutigoel11&show_icons=true&locale=en&layout=compact" alt="shrutigoel11" /></p>
 
 ### Contribution Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&exclude_days=Sun&background=45%2CEBD2D2C3%2CEB5454)](https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&exclude_days=Fri&background=45%2CEBD2D2C3%2CEB5454)](https://git.io/streak-stats">
 
