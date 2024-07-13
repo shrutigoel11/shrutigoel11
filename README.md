@@ -40,5 +40,5 @@ Hello! I'm a passionate and enthusiastic **Full-Stack Web Developer** currently 
 
 
 ### Contribution Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&exclude_days=Thu,Sun&background=45%2CEBD2D2C3%2CEB5454)](https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=&exclude_days=Sun%2CThu&background=FFF1EEhttps://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&exclude_days=Thu,Sun&background=45%2CEBD2D2C3%2CEB5454)](https://git.io/streak-stats">
 
