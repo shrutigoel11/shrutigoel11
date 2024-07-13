@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shruti Goel <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="html5" width="85" height="65"/></h1>
-<h3 align="center">A Passionate Full Stack Developer </h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+🌱 I’m currently learning React.js
 
-- 🌱 I’m currently learning *React.js*
+📫 How to reach me shrutigoel0111@gmail.com
 
-- 📫 How to reach me *shrutigoel0111@gmail.com*
+About Me
+Hello! I'm a passionate and enthusiastic Full-Stack Web Developer currently pursuing a CSE Core BTech at SRM. I have a strong foundation in both frontend and backend technologies and enjoy creating responsive and dynamic web applications.
+
+Skills and Technologies
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Template Engines: EJS, EJS Mate
+Additional Tools: Git, GitHub
+Projects
+PizzaPioneer: A comprehensive pizza ordering website using MongoDB, Node.js, Express.js, Bootstrap, HTML, CSS, and JavaScript. Users can explore and customize pizzas with various toppings.
+Landing Pages and Web Applications: Created responsive landing pages, a stopwatch, tic tac toe game, and a personal portfolio during internships.
+Internships
+Prodigy Infotech: Developed responsive webpages for various projects.
+Codsoft: Created a landing page, portfolio, and calculator, enhancing my frontend development skills.
+Ashadeep Baal Parikshan Sansthan: Engaged with deaf and mute children, teaching them alphabets and basic words through sign language and interactive activities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
