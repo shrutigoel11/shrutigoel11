@@ -51,7 +51,7 @@ Hello! I'm a passionate and enthusiastic **Full-Stack Web Developer** currently 
 
 
 ### Contribution Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&theme=vue-dark&exclude_days=Sun%2CWed%2CThu"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&theme=vue-dark&"/></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
