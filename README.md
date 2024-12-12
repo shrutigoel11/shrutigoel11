@@ -53,7 +53,7 @@ Hello! I'm a passionate **Full-Stack Web Developer** currently pursuing a **BTec
 
 ### Contribution Stats:
 
-<p> <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=vue-dark&hide_border=true&exclude_days=Sun%2CWed%2CThu)](https://git.io/streak-stats)"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11&theme=vue-dark&hide_border=true&exclude_days=Sun%2CWed%2CThu" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p>
