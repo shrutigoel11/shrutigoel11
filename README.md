@@ -53,8 +53,6 @@ Hello! I'm a passionate **Full-Stack Web Developer** currently pursuing a **BTec
 
 ### Contribution Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrutigoel11)](https://git.io/streak-stats)
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
 
