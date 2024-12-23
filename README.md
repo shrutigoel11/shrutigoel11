@@ -14,6 +14,7 @@ Hello! I'm a passionate **Full-Stack Web Developer** currently pursuing a **BTec
 - **Template Engines:** EJS, EJS Mate
 - **Additional Tools:** Git, GitHub
 
+
 ### Projects
 - **PizzaPioneer:** A comprehensive pizza ordering website using MongoDB, Node.js, Express.js, Bootstrap, HTML, CSS, and JavaScript. Users can explore and customize pizzas with various toppings.
 - **Landing Pages & Web Applications:** Created responsive landing pages, a stopwatch, tic-tac-toe game, and a personal portfolio during internships.
