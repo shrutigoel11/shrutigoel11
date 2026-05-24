@@ -49,10 +49,4 @@ Hello! I'm a passionate **Full-Stack Web Developer** currently pursuing a **BTec
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
----
-
-### Contribution Stats:
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=shrutigoel11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
 
