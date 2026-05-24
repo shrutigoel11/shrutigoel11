@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Goel <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer" width="85" height="65"/></h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React.js**.
 - 📫 How to reach me: **shrutigoel0111@gmail.com**.
 
 ## About Me
